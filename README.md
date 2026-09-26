@@ -1,5 +1,5 @@
 ### Product Operator & Mechatronics Engineer 🚀
-Currently building **Suraksha-Coastal AI**—an anticipatory climate-risk platform using Gemini APIs—for Hack With Hyderabad 3.0.
+Currently building **Suraksha-Coastal AI**—an anticipatory climate-risk platform using Gemini APIs—for Code with Community.
 
 <!--
 **vishwasaivipul/vishwasaivipul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
