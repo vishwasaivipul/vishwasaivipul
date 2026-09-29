@@ -1,5 +1,5 @@
 ### Product Operator & Mechatronics Engineer 🚀
-Currently building **Suraksha-Coastal AI**—an anticipatory climate-risk platform using Gemini APIs—for Code with Community.
+Currently building **Suraksha-Coastal AI**—an anticipatory climate-risk platform using Gemini APIs—for "Code for Community".
 
 <!--
 **vishwasaivipul/vishwasaivipul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
